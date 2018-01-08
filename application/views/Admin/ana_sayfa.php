@@ -56,6 +56,12 @@
                                 <div class="tile-text"><span>Ürün İşlemleri</span></div>
                             </div>
                         </a>
+                        <a href="<?=base_url("Admin\Yorumlar");?>" >
+                            <div class="tile yellow squar">
+                                <div class="tile-icon"><i class="fa fa-comments fa-5x"></i></div>
+                                <div class="tile-text"><span>Yorumlar</span></div>
+                            </div>
+                        </a>
                     </div>
                 </div><!-- col-sm-12 -->
             </div><!-- row -->

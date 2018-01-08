@@ -102,4 +102,5 @@ class Main_Model extends CI_Model{
         $query = $this->db->query("SELECT IFNULL(ROUND(SUM(PUAN)/COUNT(*),2),0) Puans FROM yorumlar WHERE UrunID=$Id");
         return $query->row(0)->Puans;
     }
+
 }

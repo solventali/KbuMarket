@@ -14,6 +14,7 @@
                     <li><a href="<?=base_url("Admin\Urunler");?>"><i class="fa fa-rocket"></i> <span>Ürünler</span></a></li>
                 </ul>
             </li>
+            <li><a href="<?=base_url("Admin\Yorumlar");?>"><i class="fa fa-comments"></i> <span>Yorumlar</span></a></li>
         </ul>
     </div><!-- leftpanelinner -->
 </div><!-- leftpanel -->
