@@ -5,12 +5,9 @@
         <div class="col-md-12">
             <div class="left-panel">
                 <?php $this->load->view('include_main/sidemenu');?>
-                <div >Denme</div>
             </div>
             <div class="right-panel">
                 <div class="row">
-                    <div class="col-md-6">
-                        <div class="row">
                             <div class="col-md-12">
                                 <div class="slide-container">
                                     <div class="p-slider">
